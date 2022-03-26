@@ -1,0 +1,14 @@
+#Secondary # | Secondary Stat Type 
+secondary1: offence
+secondary2: offence%
+secondary3: defence
+secondary4: defence%
+secondary5: health
+secondary6: health%
+secondary7: potency
+secondary8: potency%
+secondary9: protection
+secondary10: protection%
+secondary11: criticalchance%
+secondary12: tenacity%
+secondary13: speed

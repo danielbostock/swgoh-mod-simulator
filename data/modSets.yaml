@@ -1,0 +1,10 @@
+
+modsetdouble1: health
+modsetdouble2: criticalchance
+modsetdouble3: defence
+modsetdouble4: potency
+modsetdouble5: tenacity
+
+modsetquad1: offence
+modsetquad2: speed
+modsetquad3: critdmg
